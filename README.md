@@ -61,3 +61,11 @@ AEGIS-JD was built by a 5-member team as part of a robotics internship:
 - **Conversational AI ("Ask JD")** — teammate contribution
 
 This repo reflects only my individual work on the project.
+
+---
+
+## 🧑‍💻 Author
+
+*Ahmed Ali*
+Electrical Engineering Student | Tech Enthusiast
+LinkedIn: [www.linkedin.com/in/ahmedali88](https://www.linkedin.com/in/ahmedali88)
